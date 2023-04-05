@@ -1,1 +1,1 @@
-0x01-git My schhol fee
+0x01-git My school fee
